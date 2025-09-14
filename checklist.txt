@@ -1,0 +1,5 @@
+Python version: 3.9.4
+venv: active
+Django version: 4.2.24
+Git remote set: origin  https://github.com/SyllonaElocin/CincoRepository.git (fetch)
+                origin  https://github.com/SyllonaElocin/CincoRepository.git (push)
